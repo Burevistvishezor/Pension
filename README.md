@@ -9,4 +9,6 @@ Data Visualization
 ## Setup Requirements
 1. `pip install pandas matplotlib`
 2. Run `python pension_core.py` and select option 2 to generate the trend chart.
-plot_pension_trend
+plot_pension_trend.
+
+![German Pension Growth Trend](pension_trend.png)
